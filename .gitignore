@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 .DS_Store
 .DS_Store/
+data/cbsgebiedsindelingen2016-2025/
+data/*.gpkg
 
 # C extensions
 *.so
